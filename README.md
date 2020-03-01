@@ -1,6 +1,6 @@
 # Diamantes - Prediciendo el precio de los diamantes
 
-[titulo]
+![titulo](images/titulo_diamante.jpg)
 
 Partiendo de un Dataset que contiene los precios y otros atributos de unos 54.000 diamantes trataremos mediante el analisis y aplicacion de técnicas de ML predecir el precio de los diamantes.
 
