@@ -2,7 +2,7 @@
 
 ![titulo](images/titulo_diamante.jpg)
 
-Partiendo de un Dataset que contiene los precios y otros atributos de unos 54.000 diamantes trataremos mediante el analisis y aplicacion de técnicas de ML predecir el precio de los diamantes.
+Partiendo de un Dataset que contiene los precios y otros atributos de unos 54.000 diamantes trataremos mediante el análisis y aplicación de técnicas de Machine Learning predecir el precio de los diamantes.
 
 Los datos:
 
@@ -12,9 +12,9 @@ Los datos:
 
 * Cut: Calidad de corte del corte (regular, buena, muy buena, premium, ideal)
 
-* Color: Color diamante color, de J (peor) a D (mejor)
+* Color: Color del diamante, de J (peor) a D (mejor)
 
-* Clarity:  Claridad del diamante (I1 (peor), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (mejor))
+* Clarity: Claridad del diamante (I1 (peor), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (mejor))
 
 * X:  Longitud en mm (0-10,74)
 
@@ -26,9 +26,9 @@ Los datos:
 
 * Table:  Ancho de la parte superior del diamante en relación con el punto más ancho (43-95)
 
-## Evaluacion
+## Evaluación
 
-La evaluacion se realizara mediante la metrica RMSE (Root Mean Squared Error):
+La evaluación se realiza mediante la métrica RMSE (Root Mean Squared Error):
 
 https://en.wikipedia.org/wiki/Root-mean-square_deviation
 
