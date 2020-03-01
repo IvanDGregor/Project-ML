@@ -40,3 +40,7 @@ Resultados con los diferentes modelos utilizados:
 
 ## Recursos
 
+* [Sklearn](https://scikit-learn.org/stable/)
+* [H2O ai](https://www.h2o.ai/)
+* [Keras](https://keras.io/)
+* [Kaggle](https://www.kaggle.com/shivam2503/diamonds)
