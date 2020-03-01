@@ -1,4 +1,4 @@
-# Diamantes - Prediciendo el precio de los diamantes
+# Diamantes
 
 ![titulo](images/titulo_diamante.jpg)
 
