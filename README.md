@@ -36,7 +36,7 @@ https://en.wikipedia.org/wiki/Root-mean-square_deviation
 
 Resultados con los diferentes modelos utilizados:
 
-[imagen_resultados]
+![imagen_resultados](images/resultados.jpg)
 
 ## Recursos
 
